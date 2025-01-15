@@ -28,7 +28,7 @@ As produções geradas pela IA demonstraram um alto grau de originalidade e inov
 
 Os resultados também evidenciaram a importância do processo iterativo: ao ajustar os prompts e refinar as descrições ao longo do caminho, consegui alcançar um nível de coerência e expressividade que talvez não fosse possível sem a constante interação com as ferramentas. A busca por uma estética unificada foi atingida através dessa curadoria contínua e da adaptação dos elementos criados pela IA, resultando em um conjunto final que se destacou pela criatividade e pelo impacto visual e emocional.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 Criar algo "natty" (elegante e estiloso) com IA foi um grande desafio, pois, apesar das ferramentas serem poderosas, elas ainda têm limitações. Embora as IAs consigam gerar conteúdos surpreendentemente bons, a integração de diferentes formas de arte e a harmonia entre elas exigem um olhar crítico e refinado. A principal dificuldade foi manter a consistência estética e a profundidade emocional que uma obra humana poderia transmitir, mas o processo também foi uma oportunidade de explorar novas formas de expressão criativa.
 
 
